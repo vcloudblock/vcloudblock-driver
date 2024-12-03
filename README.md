@@ -1,7 +1,7 @@
 # openblock-driver
 
 This repo does not contain any source code. It is just used to release binary files of drivers.
-
+本仓库不包含任何源码，只用于发布驱动文件。
 ## Support system
 
 - Windows x86/x64
